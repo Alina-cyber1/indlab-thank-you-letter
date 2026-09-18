@@ -19,4 +19,5 @@
 ## Связанные репозитории
 
 - [AI-ML-Developer](https://github.com/Alina-cyber1/AI-ML-Developer) — материалы стажировки и сертификат
+- [certificate-rag-ai-agents](https://github.com/Alina-cyber1/certificate-rag-ai-agents) — сертификат курса «Создание AI агентов с базой знаний (RAG) на Claude Code и Replit»
 - [RAG-AI-ML](https://github.com/Alina-cyber1/RAG-AI-ML) — RAG-система для автоматического поиска и генерации ответов по документации курса AI/ML
